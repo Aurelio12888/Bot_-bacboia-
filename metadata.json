@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Bantu Master IA - Photo Engine",
+  "description": "Análise de gráfico de Bac Bo via captura de foto e upload.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
